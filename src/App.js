@@ -14,8 +14,8 @@ function App() {
         setParams(paramsObj);
     }
 
-    const CLIENT_ID = '6ea5313de8814f418704ea9690691940'
-    const CLIENT_SECRET = '3c8880233c5f4dcd803cea950d72a28e'
+    const CLIENT_ID = ''
+    const CLIENT_SECRET = ''
 
     useEffect(() => {
         let artist = searchParams.artist;
